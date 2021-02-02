@@ -1,2 +1,2 @@
-# Chatting-Desktop-App
-Java Development
+# LiveChat
+Chatting Desktop App (Java Development)
